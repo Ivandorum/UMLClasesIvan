@@ -13,7 +13,11 @@ class Miembro_de_la_junta_directiva
 class Persona
 class Reunion_de_la_junta_directiva
 
+Conferencia                    --^  Evento
+Reunion_de_la_junta_directiva  --^  Evento
 
+Miembro                        --^  Persona
+Miembro_de_la_junta_directiva  --^  Miembro
 
 
 

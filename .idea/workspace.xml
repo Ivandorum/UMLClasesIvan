@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="326fd391-a6f9-49fc-8bbc-b58f0ada6df4" name="Changes" comment="Añadidas las clases">
-      <change afterPath="$PROJECT_DIR$/src/IvanUML.puml" afterDir="false" />
-    </list>
+    <list default="true" id="326fd391-a6f9-49fc-8bbc-b58f0ada6df4" name="Changes" comment="Creadas las clases" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,18 +30,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultPlantUmlFileTemplate": "UML Sequence",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/ALU1K/IdeaProjects/UMLClasesIvan",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultPlantUmlFileTemplate&quot;: &quot;UML Sequence&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ALU1K/IdeaProjects/UMLClasesIvan&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -65,6 +63,7 @@
       <workItem from="1682704515766" duration="44000" />
       <workItem from="1682704649779" duration="24000" />
       <workItem from="1682704709089" duration="1023000" />
+      <workItem from="1682705749513" duration="288000" />
     </task>
     <task id="LOCAL-00001" summary="Añadidas las clases">
       <created>1682705527900</created>
@@ -73,7 +72,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682705527901</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creadas las clases">
+      <created>1682705961281</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682705961281</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creadas las clases">
+      <created>1682705968612</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682705968612</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Añadidas las clases" />
-    <option name="LAST_COMMIT_MESSAGE" value="Añadidas las clases" />
+    <MESSAGE value="Creadas las clases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creadas las clases" />
   </component>
 </project>
