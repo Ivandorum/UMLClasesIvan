@@ -4,13 +4,32 @@
 top to bottom direction
 skinparam linetype ortho
 
-class Asociación
-class Conferencia
-class Evento
-class Localización
-class Miembro
+class Asociación {
+    newLocation(l : Location) : void
+    newEvent(e : Event) : void
+    newPerson(p : Person) : void
+    informEvent(e : Location) : void
+    register(m : Member,e : Event) : void
+}
+class Localización {
+    description : String
+    address : String
+}
+class Evento {
+    date : Date
+    description : String
+    assign(l : Location) : void
+}
+class Conferencia {
+    max_attendees : Integer
+}
+class Persona {
+    name : String
+}
+class Miembro {
+    e-mail : String
+}
 class Miembro_de_la_junta_directiva
-class Persona
 class Reunion_de_la_junta_directiva
 
 Conferencia                    --^  Evento
