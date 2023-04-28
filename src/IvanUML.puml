@@ -19,6 +19,13 @@ Reunion_de_la_junta_directiva  --^  Evento
 Miembro                        --^  Persona
 Miembro_de_la_junta_directiva  --^  Miembro
 
+Asociación o--  Localización
+Asociación o--  Evento
+Asociación o--  Persona
 
+Conferencia  --  Persona
+Evento  --  Miembro
+Evento  --  Localización
+Miembro_de_la_junta_directiva --  Reunion_de_la_junta_directiva
 
 @enduml
