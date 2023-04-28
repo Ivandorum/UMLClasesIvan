@@ -1,0 +1,20 @@
+@startuml
+
+!theme plain
+top to bottom direction
+skinparam linetype ortho
+
+class Asociación
+class Conferencia
+class Evento
+class Localización
+class Miembro
+class Miembro_de_la_junta_directiva
+class Persona
+class Reunion_de_la_junta_directiva
+
+
+
+
+
+@enduml
