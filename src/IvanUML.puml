@@ -38,13 +38,13 @@ Reunion_de_la_junta_directiva  --^  Evento
 Miembro                        --^  Persona
 Miembro_de_la_junta_directiva  --^  Miembro
 
-Asociación o--  Localización
-Asociación o--  Evento
-Asociación o--  Persona
+Asociación o-- "0..*" Localización
+Asociación o-- "0..*" Evento
+Asociación o-- "0..*" Persona
 
-Conferencia  --  Persona
-Evento  --  Miembro
-Evento  --  Localización
-Miembro_de_la_junta_directiva --  Reunion_de_la_junta_directiva
+Conferencia "0..*" -- "0..*" Persona : attendessTo
+Evento "0..*" -- "0..*" Miembro : attendessTo
+Evento "1" -- "0..*" Localización : is Located in
+Miembro_de_la_junta_directiva -- "0..*" Reunion_de_la_junta_directiva : attendessTo
 
 @enduml

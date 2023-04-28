@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="326fd391-a6f9-49fc-8bbc-b58f0ada6df4" name="Changes" comment="Creadas las relaciones entre las clases">
-      <change beforePath="$PROJECT_DIR$/src/IvanUML.puml" beforeDir="false" afterPath="$PROJECT_DIR$/src/IvanUML.puml" afterDir="false" />
-    </list>
+    <list default="true" id="326fd391-a6f9-49fc-8bbc-b58f0ada6df4" name="Changes" comment="Añadidos los atributos y metodos a las clases" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +66,7 @@
       <workItem from="1682705749513" duration="288000" />
       <workItem from="1682706110278" duration="196000" />
       <workItem from="1682706330295" duration="145000" />
+      <workItem from="1682706490561" duration="134000" />
     </task>
     <task id="LOCAL-00001" summary="Añadidas las clases">
       <created>1682705527900</created>
@@ -104,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682706459908</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Añadidos los atributos y metodos a las clases">
+      <created>1682706530173</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682706530173</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +132,7 @@
     <MESSAGE value="Creadas las clases" />
     <MESSAGE value="Creadas las jerarquias de Evento y de los miembros" />
     <MESSAGE value="Creadas las relaciones entre las clases" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creadas las relaciones entre las clases" />
+    <MESSAGE value="Añadidos los atributos y metodos a las clases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Añadidos los atributos y metodos a las clases" />
   </component>
 </project>
